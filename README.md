@@ -4,6 +4,7 @@ We read papers covering topics related to techniques for statistical inference a
 
 | Date        | Paper  | Discussion leader |
 | ------------|-----------------------|-----------------------|
+|Feb 3 2020 | [MCMC using Hamiltonian dynamics, Radford M. Neal, 2012](https://arxiv.org/abs/1206.1901), [Video on HMC](https://www.youtube.com/watch?v=a-wydhEuAm0)| |
 |Jan 20 2020 | [Scaling probabilistic models of genetic variation to millions of humans, Gopalan et al, 2016](https://www.nature.com/articles/ng.3710)| |
 |Jan 13 2020 | [Stochastic Variational Inference, Hoffman et al, 2013](http://jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf)| |
 |Dec 13 2019 | [Analysis of Population Structure: A Unifying Framework and Novel Methods Based on Sparse Factor Analysis, Engelhardt and Stephens, 2010](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1001117)| |
