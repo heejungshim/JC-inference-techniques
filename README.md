@@ -5,8 +5,7 @@ We read papers covering topics related to techniques for statistical inference a
 | Date        | Paper  | Discussion leader |
 | ------------|-----------------------|-----------------------|
 |March 4 2020 | [Black Box Variational Inference, Ranganath et al, 2014](http://proceedings.mlr.press/v33/ranganath14.pdf) [Video: presentation by David Blei](https://www.youtube.com/watch?v=-H2N4tVDK7I)| |
-|Feb 17 2020 | [The No-U-Turn Sampler: Adaptively Setting Path Lengths
-in Hamiltonian Monte Carlo, Hoffman and Gelman, 2014](http://jmlr.org/papers/volume15/hoffman14a/hoffman14a.pdf)| |
+|Feb 17 2020 | [The No-U-Turn Sampler: Adaptively Setting Path Lengths in Hamiltonian Monte Carlo, Hoffman and Gelman, 2014](http://jmlr.org/papers/volume15/hoffman14a/hoffman14a.pdf)| |
 |Feb 3 2020 | [MCMC using Hamiltonian dynamics, Radford M. Neal, 2012](https://arxiv.org/abs/1206.1901), [Video on HMC](https://www.youtube.com/watch?v=a-wydhEuAm0)| |
 |Jan 20 2020 | [Scaling probabilistic models of genetic variation to millions of humans, Gopalan et al, 2016](https://www.nature.com/articles/ng.3710)| |
 |Jan 13 2020 | [Stochastic Variational Inference, Hoffman et al, 2013](http://jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf)| |
