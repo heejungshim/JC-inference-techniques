@@ -5,8 +5,7 @@ We read papers covering topics related to techniques for statistical inference a
 | Date        | Paper  | Discussion leader |
 | ------------|-----------------------|-----------------------|
 |April 27 2020 |[Stochastic Gradient Descent as Approximate Bayesian Inference, Mandt et al, 2017](http://www.jmlr.org/papers/volume18/17-214/17-214.pdf)| Martin |
-|April 20 2020 |[A Survey of Optimization Methods from
-a Machine Learning Perspective, Sun et al, 2019](https://arxiv.org/pdf/1906.06821.pdf) | |
+|April 20 2020 |[A Survey of Optimization Methods from a Machine Learning Perspective, Sun et al, 2019](https://arxiv.org/pdf/1906.06821.pdf) | |
 |April 14 2020 |[An overview of gradient descent optimization algorithms, Sebastian Ruder, 2017](https://arxiv.org/abs/1609.04747) and/or [this blog](https://ruder.io/optimizing-gradient-descent/)| Qiuyi |
 |March 30 2020 |[Tutorial on Variational Autoencoders, CARL DOERSCH, 2016](https://arxiv.org/pdf/1606.05908.pdf) and [What is a variational autoencoder?](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)| Hui |
 |March 9 2020 | [Automatic Differentiation Variational Inference, Kucukelbir et al, 2017](http://www.jmlr.org/papers/volume18/16-107/16-107.pdf)| Anubhav |
