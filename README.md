@@ -4,6 +4,8 @@ We read papers covering topics related to techniques for statistical inference a
 
 | Date        | Paper  | Discussion leader |
 | ------------|-----------------------|-----------------------|
+|May 11 2020 |[Bayesian Learning via Stochastic Gradient Langevin Dynamics, Welling and Teh, 2011](http://www.icml-2011.org/papers/398_icmlpaper.pdf)| Heejung? |
+|May 4 2020 |[Unbiased Implicit Variational Inference, Titsias and Ruiz, 2019](http://proceedings.mlr.press/v89/titsias19a/titsias19a.pdf)|  |
 |April 27 2020 |[Stochastic Gradient Descent as Approximate Bayesian Inference, Mandt et al, 2017](http://www.jmlr.org/papers/volume18/17-214/17-214.pdf)| Martin |
 |April 20 2020 |[A Survey of Optimization Methods from a Machine Learning Perspective, Sun et al, 2019](https://arxiv.org/pdf/1906.06821.pdf) | |
 |April 14 2020 |[An overview of gradient descent optimization algorithms, Sebastian Ruder, 2017](https://arxiv.org/abs/1609.04747) and/or [this blog](https://ruder.io/optimizing-gradient-descent/)| Qiuyi |
