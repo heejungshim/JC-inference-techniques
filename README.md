@@ -4,7 +4,10 @@ We read papers covering topics related to techniques for statistical inference a
 
 | Date        | Paper  | Discussion leader |
 | ------------|-----------------------|-----------------------|
-|May 11 2020 |[Bayesian Learning via Stochastic Gradient Langevin Dynamics, Welling and Teh, 2011](http://www.icml-2011.org/papers/398_icmlpaper.pdf)| Heejung? |
+|May 25 2020 |[Bayesian Computing with INLA: A Review, Rue et al, 2017](https://www.annualreviews.org/doi/pdf/10.1146/annurev-statistics-060116-054045)| Martin|
+A Complete Recipe for Stochastic Gradient MCMC, Ma et al, 2015](http://papers.nips.cc/paper/5891-a-complete-recipe-for-stochastic-gradient-mcmc.pdf)| Heejung |
+|May 18 2020 |[A Complete Recipe for Stochastic Gradient MCMC, Ma et al, 2015](http://papers.nips.cc/paper/5891-a-complete-recipe-for-stochastic-gradient-mcmc.pdf)| Heejung |
+|May 11 2020 |[Bayesian Learning via Stochastic Gradient Langevin Dynamics, Welling and Teh, 2011](http://www.icml-2011.org/papers/398_icmlpaper.pdf)| Heejung |
 |May 4 2020 |[Unbiased Implicit Variational Inference, Titsias and Ruiz, 2019](http://proceedings.mlr.press/v89/titsias19a/titsias19a.pdf)|  |
 |April 27 2020 |[Stochastic Gradient Descent as Approximate Bayesian Inference, Mandt et al, 2017](http://www.jmlr.org/papers/volume18/17-214/17-214.pdf)| Martin |
 |April 20 2020 |[A Survey of Optimization Methods from a Machine Learning Perspective, Sun et al, 2019](https://arxiv.org/pdf/1906.06821.pdf) | |
