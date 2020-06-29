@@ -4,7 +4,9 @@ We read papers covering topics related to techniques for statistical inference a
 
 | Date        | Paper  | Discussion leader |
 | ------------|-----------------------|-----------------------|
-|June 15, 29 2020 |[Particle Markov chain Monte Carlo methods, Andrieu et al, 2010](https://www.stats.ox.ac.uk/~doucet/andrieu_doucet_holenstein_PMCMC.pdf) | Heejung? |
+|July 13 2020 |[Composing graphical models with neural networks for structured representations and fast inference, Johnson et al, 2016](https://papers.nips.cc/paper/6379-composing-graphical-models-with-neural-networks-for-structured-representations-and-fast-inference.pdf) | Martin|
+|July 6 2020 |[A Unifying Review of Linear Gaussian Models, Roweis and Ghahramani, 1999](https://cs.nyu.edu/~roweis/papers/NC110201.pdf) | |
+|June 15, 29 2020 |[Particle Markov chain Monte Carlo methods, Andrieu et al, 2010](https://www.stats.ox.ac.uk/~doucet/andrieu_doucet_holenstein_PMCMC.pdf) | Heejung/Martin |
 |             |[An Introduction to Sequential Monte Carlo Methods, Doucet et al, 2001](https://www.stats.ox.ac.uk/~doucet/doucet_defreitas_gordon_smcbookintro.pdf)| |
 |June 9 2020 |[Bayesian posterior sampling via stochastic gradient fisher scoring, Ahn et al, 2012](https://dl.acm.org/doi/10.5555/3042573.3042799) | |
 |May 25 2020 |[Bayesian Computing with INLA: A Review, Rue et al, 2017](https://www.annualreviews.org/doi/pdf/10.1146/annurev-statistics-060116-054045)| Martin|
