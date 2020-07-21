@@ -4,6 +4,7 @@ We read papers covering topics related to techniques for statistical inference a
 
 | Date        | Paper  | Discussion leader |
 | ------------|-----------------------|-----------------------|
+|July 27 2020 |[BasisVAE: Translation-invariant feature-level clustering with Variational Autoencoders, Märtens and Yau, 2020](https://arxiv.org/pdf/2003.03462.pdf) | Heejung |
 |July 13 2020 |[Composing graphical models with neural networks for structured representations and fast inference, Johnson et al, 2016](https://papers.nips.cc/paper/6379-composing-graphical-models-with-neural-networks-for-structured-representations-and-fast-inference.pdf) | Martin|
 |July 6 2020 |[A Unifying Review of Linear Gaussian Models, Roweis and Ghahramani, 1999](https://cs.nyu.edu/~roweis/papers/NC110201.pdf) | |
 |June 15, 29 2020 |[Particle Markov chain Monte Carlo methods, Andrieu et al, 2010](https://www.stats.ox.ac.uk/~doucet/andrieu_doucet_holenstein_PMCMC.pdf) | Heejung/Martin |
