@@ -4,6 +4,7 @@ We read papers covering topics related to techniques for statistical inference a
 
 | Date        | Paper  | Discussion leader |
 | ------------|-----------------------|-----------------------|
+|August 24 2020 | [Expectation Propagation for Approximate Bayesian Inference, Thomas P Minka, 2001](https://tminka.github.io/papers/ep/minka-ep-uai.pdf) | Martin|
 |August 10 2020 |[VAE with a VampPrior, Tomczak and Welling, 2018](http://proceedings.mlr.press/v84/tomczak18a/tomczak18a.pdf) | Yong See |
 |July 27 2020 |[BasisVAE: Translation-invariant feature-level clustering with Variational Autoencoders, Märtens and Yau, 2020](https://arxiv.org/pdf/2003.03462.pdf) | Heejung |
 |July 13 2020 |[Composing graphical models with neural networks for structured representations and fast inference, Johnson et al, 2016](https://papers.nips.cc/paper/6379-composing-graphical-models-with-neural-networks-for-structured-representations-and-fast-inference.pdf) | Martin|
