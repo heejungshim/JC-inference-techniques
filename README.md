@@ -4,7 +4,8 @@ We read papers covering topics related to techniques for statistical inference a
 
 | Date        | Paper  | Discussion leader |
 | ------------|-----------------------|-----------------------|
-|September 7 2020 | [Expectation propagation as a way of life: A framework for Bayesian inference on partitioned data, Vehtari et al, 2019](http://www.stat.columbia.edu/~gelman/research/unpublished/ep_arxiv.pdf) | ??|
+|September 22 2020 | [Distributed Bayesian Learning with Stochastic Natural Gradient Expectation Propagation and the Posterior Server, Hasenclever et al, 2017](https://www.jmlr.org/papers/volume18/16-478/16-478.pdf) ||
+|September 7 2020 | [Expectation propagation as a way of life: A framework for Bayesian inference on partitioned data, Vehtari et al, 2019](http://www.stat.columbia.edu/~gelman/research/unpublished/ep_arxiv.pdf) | |
 |August 24 2020 | [Expectation Propagation for Approximate Bayesian Inference, Thomas P Minka, 2001](https://tminka.github.io/papers/ep/minka-ep-uai.pdf) | Martin|
 |August 10 2020 |[VAE with a VampPrior, Tomczak and Welling, 2018](http://proceedings.mlr.press/v84/tomczak18a/tomczak18a.pdf) | Yong See |
 |July 27 2020 |[BasisVAE: Translation-invariant feature-level clustering with Variational Autoencoders, Märtens and Yau, 2020](https://arxiv.org/pdf/2003.03462.pdf) | Heejung |
