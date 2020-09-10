@@ -1,6 +1,6 @@
 We read papers covering topics related to techniques for statistical inference and machine learning (including deep learning). Feel free to email me at <heejung.shim@unimelb.edu.au> if you'd like to join for discussion or you have any paper suggestions
 
-* We meet fortnightly on Monday at 4pm via zoom unless otherwise stated.
+* We meet fortnightly on Tuesday at 4pm via zoom unless otherwise stated.
 
 | Date        | Paper  | Discussion leader |
 | ------------|-----------------------|-----------------------|
