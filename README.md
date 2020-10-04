@@ -4,6 +4,7 @@ We read papers covering topics related to techniques for statistical inference a
 
 | Date        | Paper  | Discussion leader |
 | ------------|-----------------------|-----------------------|
+|October 6 2020 | Chapter 3 Graphical Models as Exponential Families of [Graphical Models, Exponential Families, and Variational Inference, Wainwright and Jordan, 2008](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf) | | 
 |September 22 2020 | [Distributed Bayesian Learning with Stochastic Natural Gradient Expectation Propagation and the Posterior Server, Hasenclever et al, 2017](https://www.jmlr.org/papers/volume18/16-478/16-478.pdf) ||
 |September 7 2020 | [Expectation propagation as a way of life: A framework for Bayesian inference on partitioned data, Vehtari et al, 2019](http://www.stat.columbia.edu/~gelman/research/unpublished/ep_arxiv.pdf) | |
 |August 24 2020 | [Expectation Propagation for Approximate Bayesian Inference, Thomas P Minka, 2001](https://tminka.github.io/papers/ep/minka-ep-uai.pdf) | Martin|
