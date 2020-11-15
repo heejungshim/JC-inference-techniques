@@ -4,6 +4,7 @@ We read papers covering topics related to techniques for statistical inference a
 
 | Date        | Paper  | Discussion leader |
 | ------------|-----------------------|-----------------------|
+|November 17 2020 | [Covariances, Robustness, and Variational Bayes, Giordano et al, 2018](https://jmlr.org/papers/volume19/17-670/17-670.pdf) |Martin? |
 |November 3 2020 | Chapter 4.3 Expectation-Propagation Algorithms of [Graphical Models, Exponential Families, and Variational Inference, Wainwright and Jordan, 2008](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf) | | 
 |October 20 2020 | Chapter 4.1 Sum-Product and Bethe Approximation of [Graphical Models, Exponential Families, and Variational Inference, Wainwright and Jordan, 2008](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf) | | 
 |October 6 2020 | Chapter 3 Graphical Models as Exponential Families of [Graphical Models, Exponential Families, and Variational Inference, Wainwright and Jordan, 2008](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf) | | 
