@@ -4,6 +4,7 @@ We read papers covering topics related to techniques for statistical inference a
 
 | Date        | Paper  | Discussion leader |
 | ------------|-----------------------|-----------------------|
+|December 15 2020 | [Variational Boosting: Iteratively Refining Posterior Approximations, Miller et al, 2017](http://proceedings.mlr.press/v70/miller17a.html) | | 
 |December 1 2020 | [Automatic Differentiation in Machine Learning: a Survey, Baydin et al, 2018](https://arxiv.org/abs/1502.05767) | | 
 |November 17 2020 | [Covariances, Robustness, and Variational Bayes, Giordano et al, 2018](https://jmlr.org/papers/volume19/17-670/17-670.pdf) |Martin? |
 |November 3 2020 | Chapter 4.3 Expectation-Propagation Algorithms of [Graphical Models, Exponential Families, and Variational Inference, Wainwright and Jordan, 2008](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf) | | 
