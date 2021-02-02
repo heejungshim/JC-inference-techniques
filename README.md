@@ -4,6 +4,7 @@ We read papers covering topics related to techniques for statistical inference a
 
 | Date        | Paper  | Discussion leader |
 | ------------|-----------------------|-----------------------|
+|Feb 9 2021 | [A Global Geometric Framework for Nonlinear Dimensionality Reduction, Tenenbaum et al, 2000](https://web.mit.edu/cocosci/Papers/sci_reprint.pdf) | | 
 |January 12 2021 | [Neural Ordinary Differential Equations, Chen et al, 2018](https://papers.nips.cc/paper/2018/file/69386f6bb1dfed68692a24c8686939b9-Paper.pdf) | | 
 |December 15 2020 | [Variational Boosting: Iteratively Refining Posterior Approximations, Miller et al, 2017](http://proceedings.mlr.press/v70/miller17a.html) | | 
 |December 1 2020 | [Automatic Differentiation in Machine Learning: a Survey, Baydin et al, 2018](https://arxiv.org/abs/1502.05767) | | 
