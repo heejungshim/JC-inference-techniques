@@ -4,6 +4,8 @@ We read papers covering topics related to techniques for statistical inference a
 
 | Date        | Paper  | Discussion leader |
 | ------------|-----------------------|-----------------------|
+|March 15 2021 | [The mathematics of UMAP, Adele Jackson, 2019](https://adelejackson.github.io/files/Maths_of_UMAP.pdf) | | 
+|March 2 2021 | [Diffusion maps, Coifman and Lafon, 2006](https://www.sciencedirect.com/science/article/pii/S1063520306000546) | | 
 |Feb 9 2021 | [A Global Geometric Framework for Nonlinear Dimensionality Reduction, Tenenbaum et al, 2000](https://web.mit.edu/cocosci/Papers/sci_reprint.pdf) | | 
 |January 12 2021 | [Neural Ordinary Differential Equations, Chen et al, 2018](https://papers.nips.cc/paper/2018/file/69386f6bb1dfed68692a24c8686939b9-Paper.pdf) | | 
 |December 15 2020 | [Variational Boosting: Iteratively Refining Posterior Approximations, Miller et al, 2017](http://proceedings.mlr.press/v70/miller17a.html) | | 
