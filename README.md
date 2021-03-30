@@ -4,6 +4,7 @@ We read papers covering topics related to techniques for statistical inference a
 
 | Date        | Paper  | Discussion leader |
 | ------------|-----------------------|-----------------------|
+|March 29 2021 | [Probabilistic Non-linear Principal Component Analysis with Gaussian Process Latent Variable Models, Neil Lawrence, 2005](https://www.jmlr.org/papers/volume6/lawrence05a/lawrence05a.pdf) | | 
 |March 15 2021 | [The mathematics of UMAP, Adele Jackson, 2019](https://adelejackson.github.io/files/Maths_of_UMAP.pdf) | | 
 |March 2 2021 | [Diffusion maps, Coifman and Lafon, 2006](https://www.sciencedirect.com/science/article/pii/S1063520306000546) | | 
 |Feb 9 2021 | [A Global Geometric Framework for Nonlinear Dimensionality Reduction, Tenenbaum et al, 2000](https://web.mit.edu/cocosci/Papers/sci_reprint.pdf) | | 
